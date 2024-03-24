@@ -1,0 +1,13 @@
+E:\.net\winform\gym-management\gym-management\bin\Debug\QLPHONGGYM.mdf
+E:\.net\winform\gym-management\gym-management\bin\Debug\QLPHONGGYM_log.ldf
+E:\.net\winform\gym-management\gym-management\bin\Debug\gym-management.exe.config
+E:\.net\winform\gym-management\gym-management\bin\Debug\gym-management.exe
+E:\.net\winform\gym-management\gym-management\bin\Debug\gym-management.pdb
+E:\.net\winform\gym-management\gym-management\obj\Debug\gym-management.csproj.AssemblyReference.cache
+E:\.net\winform\gym-management\gym-management\obj\Debug\gym_management.frm_HoSo.resources
+E:\.net\winform\gym-management\gym-management\obj\Debug\gym_management.frm_Main.resources
+E:\.net\winform\gym-management\gym-management\obj\Debug\gym_management.Properties.Resources.resources
+E:\.net\winform\gym-management\gym-management\obj\Debug\gym-management.csproj.GenerateResource.cache
+E:\.net\winform\gym-management\gym-management\obj\Debug\gym-management.csproj.CoreCompileInputs.cache
+E:\.net\winform\gym-management\gym-management\obj\Debug\gym-management.exe
+E:\.net\winform\gym-management\gym-management\obj\Debug\gym-management.pdb
